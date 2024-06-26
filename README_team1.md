@@ -1,5 +1,6 @@
-##Project Name: *Credit Risk Analysis*
-##Team Members: Ramya Anand, Sunny, Jamil, Heidi Ye, Leslie wang
+## Project Name: *Credit Risk Analysis*
+
+## Team Members: Ramya Anand, Sunny, Jamil, Heidi Ye, Leslie wang
 
 The project of Team 1 is on 'Analysis of Credit Risk Data', the main intent of this project is to determine if the loan would be defaulted or not based on the loan parameters. There are totally 12 columns in the dataset, like loan_int_rate, loan_grade, person_credit_history, person_default history, loan_intent and so on. The loan_status is the column in the data set which is the dependent variable in determining if loan is defaulted or not. The factors are 'Y'/'N', 'Y' being loan gets defaulted and 'N' being not defaulted.
 
