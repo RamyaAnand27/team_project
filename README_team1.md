@@ -14,6 +14,7 @@ Below are the steps carried out in this project in order to successfully accompl
 The main intent of the feature analysis was to understanding the loan features and the 'Loan Segmentation' on how loan_grade was classified and how is it different from the loan_status and the features that were contributing to decide the loan grade. The Kth nearest neighbour model was applied for fitting the data for this complex classification. This analysis helped in understanding the colinearity between some of the features which indirectly contributed to the loan default status determination and in selection of right set.
 
 ***Model Analysis***: Further to the feature analysis, which paved way for selection of appropriate features for the model analysis, the data set was fitted using various classification models to find out which model gave a good fit and best accuracy score. The experiments were as below,
+  
   ***- Logical Regression model:***
 
   ***- Kth Nearest Neighbour:***
