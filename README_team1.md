@@ -6,7 +6,7 @@ The project of Team 1 is on 'Analysis of Credit Risk Data', the main intent of t
 
 Below are the steps carried out in this project in order to successfully accomplish the above intent,
 
-***Data Extraction*** The /data/raw folder holds the credit risk dataset fetched from Kaggle.com upon thorough analysis of data with good usability score like completeness of data, source credibility and data format compatibility. The dataset wasfrom licensed source with over 28000 records in csv file format with thorough column description and had an usability score of over 7 out of 10.
+***Data Extraction***: The /data/raw folder holds the credit risk dataset fetched from Kaggle.com upon thorough analysis of data with good usability score like completeness of data, source credibility and data format compatibility. The dataset wasfrom licensed source with over 28000 records in csv file format with thorough column description and had an usability score of over 7 out of 10.
 
 ***Data PreProcess***: The raw data was cleaned up and pre processed before applying any analysis on the data. The ETL process has been carried out to extract the data from source, transform the data to clean null, Nan and duplicate values, rename columns to relevant names, change the data types and map data with relevant values in case of non numerical columns. The processed dataset is then saved into the /data/processed folder.
 
