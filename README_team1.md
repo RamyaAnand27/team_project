@@ -21,5 +21,5 @@ The main intent of the feature analysis was to understanding the loan features a
 
   ***- Random Forest model:***
 
-***Model Validation***:
+***Model Validation***: The performance of a Random Forest model was evaluated using cross-validation with different numbers of folds to determine the optimal test condition. We first import necessary libraries and define a function, evaluate_model, which trains the Random Forest model and computes the accuracy using cross-validation. We explore a range of fold values from 5 to 25 and use K-Fold cross-validation with shuffling to ensure randomness. For each fold value, we calculate and print the mean accuracy along with the minimum and maximum accuracy observed across the folds. These values are recorded, and an error bar plot is generated to visualize the mean accuracies along with their respective error margins, indicating the stability and reliability of the model's performance across different cross-validation setups. 
 
