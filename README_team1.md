@@ -18,6 +18,7 @@ The main intent of the feature analysis was to understanding the loan features a
   ***- Logical Regression model:***
 
   ***- Kth Nearest Neighbour:***
+We trained the model using a train-test split approach, dividing the data into 80% for training and 20% for testing. This method is essential for accurately assessing the model's performance. The training set enables the model to learn patterns and relationships within the data, while the test set, unseen during training, is used to validate the model's ability to generalize and predict new data.
 
   ***- Random Forest model:***
 
