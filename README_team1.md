@@ -31,3 +31,5 @@ Starting with the KNN approach, we trained the model using a train-test split ap
 ## Links to the video recordings
 
 Heidi Ye: https://youtu.be/ug8WtpZy0y0
+Sunny Duggal: https://drive.google.com/file/d/1YgoFhAk9N_Tc8hwj1lqNYhJYyHpayewW/view?usp=drive_link
+
